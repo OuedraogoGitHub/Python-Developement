@@ -2,3 +2,6 @@
 	path = DevopsDemoProjet
 	url = https://github.com/OuedraogoGitHub/DevopsDemoProjet
 	branch = main
+[submodule "DevopsDemoProjet"]
+	path = DevopsDemoProjet
+	url = https://github.com/OuedraogoGitHub/DevopsDemoProjet
