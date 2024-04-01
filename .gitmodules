@@ -1,3 +1,4 @@
 [submodule "Test"]
-	path = DevopsDemo
-	url = https://github.com/OuedraogoGitHub/DevopsDemo
+	path = DevopsDemoProjet
+	url = https://github.com/OuedraogoGitHub/DevopsDemoProjet
+	branch = main
