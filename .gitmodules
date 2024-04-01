@@ -1,0 +1,3 @@
+[submodule "Test"]
+	path = DevopsDemo
+	url = https://github.com/OuedraogoGitHub/DevopsDemo
