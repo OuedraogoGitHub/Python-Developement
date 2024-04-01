@@ -1,4 +1,5 @@
 # Welcome to Python Web Development.
+# Testing practice for the Git glass
 
 PreRequisites:
 - Docker
